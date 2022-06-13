@@ -2,4 +2,4 @@ opencv-python
 streamlit
 mediapipe
 opencv-python-headless
-libgl1-mesa-glx
+libgl1
