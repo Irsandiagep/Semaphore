@@ -1,7 +1,6 @@
 mediapipe
 numpy
-opencv_python_headless
-pandas
+opencv-python-headless
 Pillow
-scikit_learn
+scikit-learn
 streamlit
