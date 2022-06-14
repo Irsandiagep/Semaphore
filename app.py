@@ -1,6 +1,3 @@
-#Modified by Augmented Startups 2021
-#Face Landmark User Interface with StreamLit
-#Watch Computer Vision Tutorials at www.augmentedstartups.info/YouTube
 import streamlit as st
 import mediapipe as mp
 import cv2
