@@ -1,5 +1,5 @@
 opencv-python==4.5.5.64
 streamlit
 mediapipe==0.8.10
-#opencv-python-headless==4.5.5.64
+opencv-python-headless==4.5.5.64
 protobuf==3.20.0
