@@ -21,7 +21,7 @@ mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 mp_holistic = mp.solutions.holistic
 
-st.title('Pose Detection Menggunakan MediaPipe')
+st.title('APLIKASI PENERJEMAH SANDI SEMAPHORE')
 
 st.markdown(
     """
@@ -38,7 +38,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.sidebar.title('Pose Detection Menggunakan MediaPipe')
+st.sidebar.title('APLIKASI PENERJEMAH SANDI SEMAPHORE')
 #st.sidebar.subheader('Parameters')
 
 @st.cache()
