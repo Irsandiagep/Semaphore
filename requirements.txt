@@ -1,4 +1,4 @@
-opencv-python
-streamlit
-mediapipe
-opencv-python-headless
+opencv-python==4.5.5.64
+streamlit==1.7.0
+mediapipe==1.8.10
+opencv-python-headless==4.5.5.64
