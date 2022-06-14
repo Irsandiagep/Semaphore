@@ -1,5 +1,6 @@
-python3-opencv
+opencv-python
 streamlit
 mediapipe
 opencv-python-headless
 protobuf==3.20.0
+libgl1
