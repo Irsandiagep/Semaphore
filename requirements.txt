@@ -1,4 +1,4 @@
-opencv-python==4.2.0.32
+opencv-python==4.5.5.64
 streamlit
 mediapipe==0.8.10
 opencv-python-headless==4.2.0.32
